@@ -42,7 +42,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 07, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 08, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -778,11 +778,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Gaming Beat Me, Development Won't](https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5am7)
-- [Agent Factory Recap: Cracking Open an Open Model](https://dev.to/googleai/agent-factory-recap-cracking-open-an-open-model-42e6)
-- [$100 OFF Google Cloud Next for the Community! Let's meet up?](https://dev.to/devteam/100-off-google-cloud-next-for-the-community-lets-meet-up-3mbo)
-- [Welcome to The Foundation: Preserving Developer Knowledge in Public](https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842)
+- [Building DevPulse: A Project Health Checker in 80 Minutes with GitHub Copilot CLI](https://dev.to/srijan-xi/building-devpulse-a-project-health-checker-in-80-minutes-with-github-copilot-cli-2gh6)
+- [The Secret Life of Python: The Safety Net ('try' and 'except')](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-safety-net-try-and-except-5h9b)
+- [Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.](https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82)
+- [PortSwigger's Top 10 Web Hacking Techniques of 2025 — A Deep Dive](https://dev.to/latentbreach/portswiggers-top-10-web-hacking-techniques-of-2025-a-deep-dive-25k6)
+- [I Built a Programming Language Where think Is a Keyword](https://dev.to/elias_hourany_5735ea9eac2/i-built-a-programming-language-where-think-is-a-keyword-1p2i)
 <!-- END_TRENDING -->
 
 ---
